@@ -84,7 +84,6 @@ mysql 문법을 적용해라
 출력은 sql를 키로 하는 json형식으로 해라. 뽑아진 행의 모든 열정보를 가져오는 것이다.
 현재날짜:{formatted_time}
 "answer": ["SELCT * FROM table.."]
-키값은 answer로 하라고 시발
 
 """
 
