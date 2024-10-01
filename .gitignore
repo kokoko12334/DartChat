@@ -10,4 +10,4 @@ __pycache__/
 *.txt
 .env
 testt.py
-
+splite_chain.py
