@@ -19,7 +19,7 @@ async def test_websocket_process_order():
 
         expected_messages = [
             "1.질문의도 분석중...",
-            "2.데이터 쿼리 변환중...",
+            "2.데이터 가져오기 준비중...",
             "3.데이터 가져오는 중...",
             "4.데이터 정리 중...",
             "종료"
